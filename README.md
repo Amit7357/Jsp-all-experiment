@@ -14,9 +14,15 @@ Part A – User Login Using Servlet and HTML Form:
 
 
 Part B – Display Employee Records with JDBC and Servlet:
+
 <img width="284" height="146" alt="Screenshot 2025-10-27 at 3 46 29 PM" src="https://github.com/user-attachments/assets/eb8b4027-438d-471e-b51d-054062c1b866" />
+
 <img width="208" height="117" alt="Screenshot 2025-10-27 at 3 46 37 PM" src="https://github.com/user-attachments/assets/ada4729b-7542-4b08-af10-9835cd355f0a" />
+
 <img width="327" height="44" alt="Screenshot 2025-10-27 at 3 46 41 PM" src="https://github.com/user-attachments/assets/dcde3abb-7f7b-474f-b1df-3ead0692596f" />
+
+
+
 
 
 
